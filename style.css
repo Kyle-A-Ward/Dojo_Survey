@@ -1,0 +1,37 @@
+body{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.layout{
+    border: black solid 2px;
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+}
+select{
+    border: black solid 2px;
+}
+input{
+    border: black solid 2px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.textcomment{
+    margin: 20px;
+}
+.textcomment>label{
+    margin-bottom:20px;
+}
+textarea {
+    width: 98%;
+    border: black solid 2px;
+}
+button{
+    background-color:lightblue;
+    margin-left: 324px;
+    border: black solid 2px;
+}
